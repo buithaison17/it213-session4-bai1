@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: bai1
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        model: qwen2.5
